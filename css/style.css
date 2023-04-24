@@ -59,11 +59,11 @@ body {
 }
 
 button {
-    background-color: #138DEF;
+    background-color: #3882F6;
     font-size: 18px;
     border: none;
     color: white;
-    border-radius: 4px;
+    border-radius: 10px;
     padding: 6px 16px;
     margin: 12px 0;
 }
@@ -71,15 +71,6 @@ button {
 .hero-img img {
     width: 700px;
     height: 300px;
-}
-button {
-    background-color: #138DEF;
-    font-size: 18px;
-    border: none;
-    color: white;
-    border-radius: 10px;
-    padding: 6px 16px;
-    margin: 12px 0;
 }
 
 /* section-2 */
@@ -139,4 +130,12 @@ button {
 
 .author {
     margin-left: auto;
+}
+
+/* section-4 */
+
+.section-4 {
+    background: #3882F6;
+    padding: 20px;
+    margin: 90px 200px;
 }
