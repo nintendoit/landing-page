@@ -160,3 +160,11 @@ button {
 #signup-small {
     color: #E5E7EB;
 }
+
+/* footer */
+.footer {
+    background: #1F2937;
+    color: #F9FAF8;
+    padding: 20px;
+    text-align: center;
+}
